@@ -41,7 +41,7 @@ Sonrasında **"BOT PERMISSIONS"** kısmına geçebiliriz. Gerçek bir bot yayın
 
 **"SCORPES"** bölümünün altında davet etmeniz için bir link oluştuğunu göreceksiniz. Bu link, botunuzu davet etmek için sunucu sahiplerine verebileceğiniz bağlantıdır. Bu bağlantıyı yeni bir sekmede açmanız ve yeni test sunucunuzu seçmeniz yeterlidir.
 
-## Adım 2 : Nerde Bu Kodlar!
+## Adım 3 : Nerde Bu Kodlar!
 
 
 
