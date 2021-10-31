@@ -15,7 +15,7 @@ Discord botu yapımına başlamadan önce uygun araçlara sahip olmanız gerekiy
 
 ## Adım 1 : Discord Botunun Doğuşu
 
-Botumuzu oluşturmak için Discord Developer Portal'a giriş yapmamız gerekiyor. Daha sonra eğer değilseniz application sekmesine tıklamanız gerekiyor ve sonrasında "New Application" butonuna tıklamanız yeterli.
+Botumuzu oluşturmak için [Discord Developer Portal'](https://discord.com/developers/applications)a giriş yapmamız gerekiyor. Daha sonra eğer değilseniz application sekmesine tıklamanız gerekiyor ve sonrasında "New Application" butonuna tıklamanız yeterli.
 
 ![Discord Main](https://user-images.githubusercontent.com/70329389/139589021-020114c4-27ca-4187-9ace-ffb1f8233b22.jpeg)
 
@@ -31,4 +31,18 @@ Aşağıda göreceğiniz Token botunuzun güvenliği için çok önemlidir. Toke
 
 ![Discord main 3](https://user-images.githubusercontent.com/70329389/139589750-763e3da8-8ce2-4a05-8d01-1ec1bc1f6322.jpeg)
 
-## Adım 2 : Merhabe Bot. Umarız Pizza Getirmişsindir
+## Adım 2 : Merhabe Bot. Umarız Pizza Getirmişsindir!
+
+Artık botunuzu discord kanalına davet edip denemelere başlamanız gerekiyor. Bunun için yeni bir discord kanalı oluşturmanızı tavsiye ederim. Oluştuyrduğunuz botu discord kanalınıza eklemek için [Discord Developer Portal'](https://discord.com/developers/applications)da sol taraftan OAuth2 sekmesine gelmeniz ve "Scorpe" kısmına bakmalı, "bot" ve "applications.commands" seçeneklerini seçmelissiniz. Sonrasında "BOT PERMISSIONS" kısmına geçebiliriz. Gerçek bir bot yayınlarken sadece gerekli izinleri istemek önemlidir. Bu şekilde sunucu sahipleri, botunuzun çok fazla izinle sunucularına neler yapabileceği konusunda endişelenmek zorunda kalmazlar. Ancak öğrenirken işleri basit tutmak için "Administrator" iznini seçebiliriz. Bu, ihtiyacımız olan her şeye erişmemizi sağlayacaktır.Bu işlemleri yaptığınızda karşınızda gözükmesi gereken ekran şu şekildedir:
+
+![Discord Main 4](https://user-images.githubusercontent.com/70329389/139590752-6023b96d-5e82-4eb3-aa6c-d5e20ca1534d.jpeg)
+
+
+
+
+
+
+
+
+
+
