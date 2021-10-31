@@ -2,7 +2,7 @@
 
 Bu yazıda: 
 
-- [x] basit bir discord botu yaratmayı.
+- [x] Basit bir discord botu yaratmayı.
 - [x] Yarattığınız botu Discord kanalına yüklemeyi.
 - [x] Çalıştırmayı ve basit düzeyde yazılan yazılara cevap verebilecek hale getirmeyi..
 
@@ -46,6 +46,12 @@ Sonrasında **"BOT PERMISSIONS"** kısmına geçebiliriz. Gerçek bir bot yayın
 **"SCORPES"** bölümünün altında davet etmeniz için bir link oluştuğunu göreceksiniz. Bu link, botunuzu davet etmek için sunucu sahiplerine verebileceğiniz bağlantıdır. Bu bağlantıyı yeni bir sekmede açmanız ve yeni test sunucunuzu seçmeniz yeterlidir.
 
 ## Adım 3 : Nerde Bu Kodlar!
+
+Botunuz için yeni bir Node.JS projesi kurmamız gerekiyor. Önce sizin için uygun olduğunu düşündüğünüz bir konumda yeni bir klasör oluşturun ve ardından Visual Studio Code'u (VSCode) açın. Sonrasında, klasörünüzü burada vurgulanan çalışma alanınıza sürükleyip bırakabilirsiniz:
+
+![Discord Main 5 ](https://user-images.githubusercontent.com/70329389/139597444-5e94f59b-1da1-46fb-b818-b92fbdd286ff.jpeg)
+
+VSCode şimdi yeni oluşturduğunuz klasörünüzdeki tüm dosya ve klasörleri gösterecektir. Bu klasörü yeni oluşturduğunuz için şu an içi boş gözükmesi normaldir, ancak dosya ekledikçe onları sürürklediğiniz konumda göreceksiniz. Projemizi oluşturmak için terminalinizi açmamız gerekiyor. Bunu, VSCode'un üst barındaki **"Terminal"** ve ardından **"New Terminal"** e tıklayarak yapabilirsiniz.
 
 
 
