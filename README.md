@@ -1,7 +1,7 @@
 # Basic-Discord-Bot
 Bu yazı basit bir discord yapmayı, discord kanalına eklemeyi , çalıştırmayı ve basit düzeyde yazılan yazılara cevap verebilecek hale getirmeyi anlatmaktadır!
 
-## Adım Ø :
+## Adım Ø : Öncesinde Gerekenler
 
 Discord botu yapımına başlamadan önce uygun araçlara sahip olmanız gerekiyor.
 
@@ -13,7 +13,7 @@ Discord botu yapımına başlamadan önce uygun araçlara sahip olmanız gerekiy
 
 Şimdi kodunuzu yazabileceğiniz bir İDE'ye ihtiyacınız var, ben Visual Studio Code kullanıyorum. Bu indirme bağlantısına [tıklayarak](https://code.visualstudio.com/download) indirebilirsiniz.
 
-## Adım 1 :
+## Adım 1 : Discord Botunun Doğuşu
 
 Botumuzu oluşturmak için Discord Developer Portal'a giriş yapmamız gerekiyor. Daha sonra eğer değilseniz application sekmesine tıklamanız gerekiyor ve sonrasında "New Application" butonuna tıklamanız yeterli.
 
@@ -31,4 +31,4 @@ Aşağıda göreceğiniz Token botunuzun güvenliği için çok önemlidir. Toke
 
 ![Discord main 3](https://user-images.githubusercontent.com/70329389/139589750-763e3da8-8ce2-4a05-8d01-1ec1bc1f6322.jpeg)
 
-## Adım 2 :
+## Adım 2 : Merhabe Bot. Umarız Pizza Getirmişsindir
