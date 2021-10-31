@@ -33,11 +33,15 @@ Aşağıda göreceğiniz Token botunuzun güvenliği için çok önemlidir. Toke
 
 ## Adım 2 : Merhabe Bot. Umarız Pizza Getirmişsindir!
 
-Artık botunuzu discord kanalına davet edip denemelere başlamanız gerekiyor. Bunun için yeni bir discord kanalı oluşturmanızı tavsiye ederim. Oluştuyrduğunuz botu discord kanalınıza eklemek için [Discord Developer Portal'](https://discord.com/developers/applications)da sol taraftan OAuth2 sekmesine gelmeniz ve "Scorpe" kısmına bakmalı, "bot" ve "applications.commands" seçeneklerini seçmelissiniz. Sonrasında "BOT PERMISSIONS" kısmına geçebiliriz. Gerçek bir bot yayınlarken sadece gerekli izinleri istemek önemlidir. Bu şekilde sunucu sahipleri, botunuzun çok fazla izinle sunucularına neler yapabileceği konusunda endişelenmek zorunda kalmazlar. Ancak öğrenirken işleri basit tutmak için "Administrator" iznini seçebiliriz. Bu, ihtiyacımız olan her şeye erişmemizi sağlayacaktır.Bu işlemleri yaptığınızda karşınızda gözükmesi gereken ekran şu şekildedir:
+Artık botunuzu discord kanalına davet edip denemelere başlamanız gerekiyor. Bunun için yeni bir discord kanalı oluşturmanızı tavsiye ederim. Oluştuyrduğunuz botu discord kanalınıza eklemek için [Discord Developer Portal'](https://discord.com/developers/applications)da sol taraftan OAuth2 sekmesine gelmeniz ve **"SCORPES"** kısmına bakmalı, **"bot"** ve **"applications.commands"** seçeneklerini seçmelissiniz.
+
+Sonrasında **"BOT PERMISSIONS"** kısmına geçebiliriz. Gerçek bir bot yayınlarken sadece gerekli izinleri istemek önemlidir. Bu şekilde sunucu sahipleri, botunuzun çok fazla izinle sunucularına neler yapabileceği konusunda endişelenmek zorunda kalmazlar. Ancak öğrenirken işleri basit tutmak için **"Administrator"** iznini seçebiliriz. Bu, ihtiyacımız olan her şeye erişmemizi sağlayacaktır.Bu işlemleri yaptığınızda karşınızda gözükmesi gereken ekran şu şekildedir:
 
 ![Discord Main 4](https://user-images.githubusercontent.com/70329389/139590752-6023b96d-5e82-4eb3-aa6c-d5e20ca1534d.jpeg)
 
-###"SCORPE"### bölümünün altında, kopyala düğmesi olan bir URL göreceksiniz. Bu, botunuzu davet etmek için sunucu sahiplerine verebileceğiniz bağlantıdır. Bu bağlantıyı yeni bir sekmede açmanız ve yeni test sunucunuzu seçmeniz yeterlidir.
+**"SCORPES"** bölümünün altında davet etmeniz için bir link oluştuğunu göreceksiniz. Bu link, botunuzu davet etmek için sunucu sahiplerine verebileceğiniz bağlantıdır. Bu bağlantıyı yeni bir sekmede açmanız ve yeni test sunucunuzu seçmeniz yeterlidir.
+
+## Adım 2 : Nerde Bu Kodlar!
 
 
 
