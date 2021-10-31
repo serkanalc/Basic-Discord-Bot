@@ -1,9 +1,10 @@
-# Basic-Discord-Bot
-Bu yazıda 
+# Basit Düzeyde Bir Discort Botu Yaratmak! 
+
+Bu yazıda: 
 
 - [x] basit bir discord botu yaratmayı.
 - [x] Yarattığınız botu Discord kanalına yüklemeyi.
-- [x] Çalıştırmayı ve basit düzeyde yazılan yazılara cevap verebilecek hale getirmeyi
+- [x] Çalıştırmayı ve basit düzeyde yazılan yazılara cevap verebilecek hale getirmeyi..
 
 Açıklıyor olacağım
 
