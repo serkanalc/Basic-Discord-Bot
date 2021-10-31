@@ -25,7 +25,7 @@ Sonrasında discord botunuz için bir isim vermeniz istenecektir. Size uygun old
 
 Eğer gördüğünüz ekran doğruysa bu bölümden botunuzun ismini, resmini ve açıklamasını değiştirebilir değiştirebilir biçimlendirebilirsiniz. Sonrasında solda göreceğiniz "Bot" sekmesine tıklayıp açılan sayfada "Add Bot" butonuna basmanız ve gelen onay penceresinden "Yes, do it!" butonunuza basmanız gerekiyor 
 
-## Dikkat!
+### Dikkat!
 
 Aşağıda göreceğiniz Token botunuzun güvenliği için çok önemlidir. Token'ınızı asla kimseyle paylaşmayın. Token'ınızın güvenliğinin ihlal edildiğini düşünüyorsanız "Regenerate" butonuna tıklayınız tıklayın.
 
