@@ -1,6 +1,6 @@
 # Basic-Discord-Bot
 Bu yazıda 
-[x] basit bir discord botu yaratmayı, discord kanalına eklemeyi , çalıştırmayı ve basit düzeyde yazılan yazılara cevap verebilecek hale getirmeyi anlatmaktadır!
+- [x] basit bir discord botu yaratmayı, discord kanalına eklemeyi , çalıştırmayı ve basit düzeyde yazılan yazılara cevap verebilecek hale getirmeyi anlatmaktadır!
 
 ## Adım Ø : Öncesinde Gerekenler
 
