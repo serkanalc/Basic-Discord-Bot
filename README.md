@@ -37,6 +37,8 @@ Artık botunuzu discord kanalına davet edip denemelere başlamanız gerekiyor. 
 
 ![Discord Main 4](https://user-images.githubusercontent.com/70329389/139590752-6023b96d-5e82-4eb3-aa6c-d5e20ca1534d.jpeg)
 
+###"SCORPE" bölümünün altında, kopyala düğmesi olan bir URL göreceksiniz. Bu, botunuzu davet etmek için sunucu sahiplerine verebileceğiniz bağlantıdır. Bu bağlantıyı yeni bir sekmede açmanız ve yeni test sunucunuzu seçmeniz yeterlidir.
+
 
 
 
