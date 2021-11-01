@@ -71,7 +71,7 @@ Görmeniz Gereken ekran buna benzer olmalıdır. gördüğünüz şeyi şu anlı
 
 ```
 
-npm init -y**
+npm init -y
 
 ```
 
@@ -79,7 +79,7 @@ Komutunu yazarak node projenizi başlatabilirsiniz. Her şey düzgün çalışt�
 
 ```
 
-npm install discord.js dotenv**
+npm install discord.js dotenv
 
 ```
 
@@ -87,7 +87,7 @@ Bu işlem sonucunda "EXPLORER" da **"node_module"** ve **"package-lock.json"** d
 
 ```
 
-npm install -g typescript ts-node**
+npm install -g typescript ts-node
 
 ```
 
@@ -97,7 +97,7 @@ TypeScript'e bilgisayarımızın herhangi bir yerinden erişmek isteyeceksinizdi
 
 ```
 
-tsc -init**
+tsc -init
 
 ```
 
