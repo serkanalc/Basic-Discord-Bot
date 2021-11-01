@@ -190,6 +190,20 @@ if (msg.content.toLowerCase() === 'Merhaba') {
 
 ```
 
+Peki şu ana kadar botunuz belirlenen mesaj discord sunucusuna yazıldıkça yazan kişiyi etiketleyerek cevap verdi etiketlemeden cevap vermesini ister misiniz? Kodunuzu aşağıdaki gibi küçük eklentilerle değiştirmeniz yeterli:
+
+```
+
+client.on('messageCreate', (msg) => {
+    if (msg.content.toLowerCase() === 'selam') {
+      msg.channel.send({
+        content: 'Selam :)',
+      })
+    }
+  })
+
+```
+
 ## <a name="asama6"></a>Kaynaklar
 
 Eğer ingilizceniz yeterli seviyedeyse veya video izlemek döküman okumaktan daha kolay geliyorsa benimde kaynak olarak aldığım [bu videoyu](https://www.youtube.com/watch?v=JMmUW4d3Noc&t=2s) izlemenizi öneririm.
