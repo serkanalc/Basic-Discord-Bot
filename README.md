@@ -13,6 +13,7 @@ Açıklıyor olacağım. İşte konu başlıkları:
 - [Botu Discord Sunucusuna Eklemek](#asama2)
 - [Terminal Ayarları](#asama3)
 - [Discord Botunu Kodlamak](#asama4)
+- [Hata Alıyorsanız!](#asama7)
 - [Daha Fazlası](#asama5)
 - [Kaynaklar](#asama6)
 
@@ -179,6 +180,15 @@ ts-node index.ts
 ```
 
 Botunuz test için açtığınız ve botunuzu davet ettiğiniz sunucunuzda çevrimiçi olmalıdır. Bir kanala "merhaba" yazarsanız, "Selam :)" ile yanıt vermecektir. Bu açıkçası çok basit bir örnek, ancak artık çevrimiçi ve mesajları dinleyen bir Discord botunuz var.
+
+## <a name="asama7"></a>Adım ! : Dikkat Etmeniz Gerekenler!
+
+Eğer bu dosyayı kurup çalıştırmakta zorluk çekiyorsanız bu bölümü okumanız gerekiyor.
+
+- Öncelikle bu dökümanı okuyup talimatları uyduysanız ve sonrasında GitHub'a atma planınız varsa ve yüklerken klasörünüz **".gitignor"** a sahipse siz de **".env"** dosyası gözükmeyecektir.
+
+- Eğer bu yukarıdaki dosyayı indirip kullanmak istiyorsanız **".env"** dosyasına kendi Tokeninizi yazmanız gerekmektedir  
+
 
 ## <a name="asama5"></a>Adım + : Daha Fazlası!
 
