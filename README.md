@@ -187,7 +187,12 @@ Eğer bu dosyayı kurup çalıştırmakta zorluk çekiyorsanız bu bölümü oku
 
 - Öncelikle bu dökümanı okuyup talimatları uyduysanız ve sonrasında GitHub'a atma planınız varsa ve yüklerken klasörünüz **".gitignor"** a sahipse siz de **".env"** dosyası gözükmeyecektir.
 
-- Eğer bu yukarıdaki dosyayı indirip kullanmak istiyorsanız **".env"** dosyasına kendi Tokeninizi yazmanız gerekmektedir  
+- Eğer bu dosyayı indirip kullanmak istiyorsanız **".env"** dosyasına kendi Tokeninizi yazmanız gerekmektedir  
+
+-Eğer yanlışlıkla Tokeninizi paylaştıysanız korkmayın Discord size bunun uyarısını aşağıdaki gibi yapacaktır. Bu mesajı görüyorsanız discord botunuzun güvenliği için Tokeninizi değiştirmeyi unutmayın.
+
+![image](https://user-images.githubusercontent.com/70329389/140660562-cd783285-6326-45b2-9dca-c871d0719592.png)
+
 
 
 ## <a name="asama5"></a>Adım + : Daha Fazlası!
